@@ -1,0 +1,30 @@
+img {
+	max-width: 100%;
+}
+
+#header{
+	height: 50px;
+	line-height: 50px;
+	border-bottom: 1px solid black;
+
+}
+
+#youtube-wrapper{
+margin: auto 40px;
+
+}
+
+#logo{
+	width: 25%;
+
+}
+
+#search-nav{
+	width: 50%;
+
+}
+
+#account-container{
+	width: 15%;
+
+}
